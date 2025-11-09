@@ -16,12 +16,12 @@ The **AI Agent**:
 
 ## Table of Contents  
 1. 🧩 **[MCP Server](#1-mcp-server)** - MCP server description  
-2. 👨‍💻 **[Client](#2-client-query0generator-and-retriever)** - Query generator and retriever  
-3. 🗂️ **[RAG System](#rag-system-and-classification)** - Retrieval, embeddings & classification
-4. 🔍 **[Semantic Retrieval](#semantic-retrieval)** - Semantic search & data extraction  
-5. ⚠️ **[Future Enhancements](#future-enhancements)** - Next steps and improvements
-6. 🔁 **[Reproducibility](#reproducibility)** - Steps to reproduce the pipeline  
-7.    **[Licence](#licence)** - GNU General Public LICENS V3  
+2. 👨‍💻 **[Client](#2-client---query-generator-and-retriever)** - Query generator and retriever  
+3. 🗂️ **[RAG System](#3-rag-system-and-classification)** - Retrieval, embeddings & classification
+4. 🔍 **[Semantic Retrieval](#4-semantic-retrieval-and-feature-extraction-agent)** - Semantic search & data extraction  
+5. ⚠️ **[Future Enhancements](#5-%EF%B8%8F-future-enhancements)** - Next steps and improvements
+6. 🔁 **[Reproducibility](#6--reproducibility)** - Steps to reproduce the pipeline  
+7. 📜 **[Licence](#licence)** - GNU General Public LICENS V3  
 
 ### 1. MCP Server  
 **Purpose:**  
