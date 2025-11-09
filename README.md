@@ -1,4 +1,4 @@
-# 🤖🧠 BioRAG AI Agent: An Intelligent Clinical Trial Semantic-Retrieval System
+# 🤖🧠 BioRAG AI Agent: An Intelligent Biomedical Semantic-Retrieval System
 
 ## Overview  
 This repository develops and implements an **AI Agent** for **clinical trials semantic-retrieval data extraction**.  
